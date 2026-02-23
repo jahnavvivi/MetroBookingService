@@ -1,6 +1,6 @@
-# 🚇 Metro Booking Service
+# Metro Booking Service
 
-## 📌 Overview
+## Overview
 
 This project implements a Metro Booking Service that models a metro network as a graph and computes the optimal route between two stops, including proper interchange handling.
 
@@ -10,7 +10,7 @@ Implemented in **C++** using Object-Oriented Programming principles.
 
 ---
 
-## 🧠 Approach
+## Approach
 
 - Metro network modeled as a **graph (adjacency list)**
 - Stops → Nodes
@@ -24,7 +24,7 @@ Time Complexity: `O(E log V)`
 
 ---
 
-## 🎟 Booking Features
+## Booking Features
 
 - Validates source and destination
 - Computes optimal route
@@ -34,7 +34,7 @@ Time Complexity: `O(E log V)`
 
 ---
 
-## 🖥 Sample Metro Lines
+## Sample Metro Lines
 
 - Blue: A → B → C → D  
 - Yellow: C → E → F → I  
@@ -45,7 +45,7 @@ C, D
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 Compile:
 ```bash
